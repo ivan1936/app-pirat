@@ -1,0 +1,1035 @@
+{
+    "payload": [
+      {
+        "type": "AUTHENTICATE",
+        "userId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+        "token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgyZTZiMWM5MjFmYTg2NzcwZjNkNTBjMTJjMTVkNmVhY2E4ZjBkMzUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vcm4tY29tcGxldGUtZ3VpZGUtZTRjNDkiLCJhdWQiOiJybi1jb21wbGV0ZS1ndWlkZS1lNGM0OSIsImF1dGhfdGltZSI6MTU4NDM3NTc2MCwidXNlcl9pZCI6Im1HY0JNOWZBZHZRTTdlQTdBQmNleVlGeGdFcTEiLCJzdWIiOiJtR2NCTTlmQWR2UU03ZUE3QUJjZXlZRnhnRXExIiwiaWF0IjoxNTg0Mzc1NzYwLCJleHAiOjE1ODQzNzkzNjAsImVtYWlsIjoicWF6MTkzNjFAbWFpbC5ydSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJxYXoxOTM2MUBtYWlsLnJ1Il19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.Yx_F5Vx02TAVX5xmNwHGQim5AR2L4d__EaOOK71R_LBMQwIXh_h1yaLQGUaJqHAmH_bVdv8he08GshrvV91-rxC8STzzFKisUKe1dFyRik3h34OZ8vowEis6tt4aBdK-nbf9KrIlQEcGC5L8uDXBuXWxfkXTM8XeozlYYjzdeoFEJcWSIK3FIVrE8b1akX1qzhs58fiCSOuoVSCcLoqbb4IIm2G7tfcXrrd2xZzemWnlJXsUe-DmdUUjZP_58aKLgWhBmcIvTY-NNuTHE-QhaV02ZPATkxBNZ7K0biwhH00w_KKkdebWgQ1j1LKtd5IqVNXQy_N_7pL8tWsu6qTLxA"
+      },
+      {
+        "type": "SET_PRODUCTS",
+        "products": [
+          {
+            "id": "-M2KIWIuEowm-WVz-KZy",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из филе индейки",
+            "imageUrl": "https://imageup.ru/img105/3563570/b2_3.jpg",
+            "description": "Придётся по вкусу тем, кто любит нежное диетиче-ское мясо, хорошо сочетается с гранатовым соусом «Наршараб», подается с маринованным луком. Порция от 200 г.",
+            "price": 117
+          },
+          {
+            "id": "-M2KIjD_ZDGzFziZ15X6",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из свинины в классическом маринаде",
+            "imageUrl": "https://imageup.ru/img105/3563571/b2_4.jpg",
+            "description": "Нежный шашлык, искусно приготовленный по классическому рецепту (лук, красный перец, соль) из шейной части свинины, который хорошо сочетается с красным кисло-сладким острым соусом. Подается с маринованным луком. Порция от 200 г.",
+            "price": 97
+          },
+          {
+            "id": "-M2KeVeNcsohgJ-jysC3",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из мякоти баранины в классическом маринаде",
+            "imageUrl": "https://imageup.ru/img105/3563574/b2_6.jpg",
+            "description": "Традиционный (лук, перец, соль) шашлык из мякоти баранины, который хорошо сочетается с красным кисло-сладким острым соусом. Подается с маринованным луком. Порция от 200 г.",
+            "price": 147
+          },
+          {
+            "id": "-M2KeVjU_gj_SUKe4LEN",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Услада холостяка",
+            "imageUrl": "https://imageup.ru/img105/3563598/b2_18.jpg",
+            "description": "Изысканный деликатес настоящего пирата. Нежнная говяжья вырезка в курдючном сале на мангале. Порция от 200 г.",
+            "price": 177
+          },
+          {
+            "id": "-M2KeVox4n3yshFcrFTU",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Люля-кебаб из курицы",
+            "imageUrl": "https://imageup.ru/img105/3563575/b2_10.jpg",
+            "description": "Это блюдо подойдёт для любителей более лёгкого варианта шашлыка, подается с маринованным луком. Рекомендуется к шашлыку сырный соус. Порция от 200 г.",
+            "price": 95
+          },
+          {
+            "id": "-M2KeVufuCFtLw0c3yVv",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Люля-кебаб (говядина и баранина)",
+            "imageUrl": "https://imageup.ru/img105/3563599/b2_11.jpg",
+            "description": "Особый вид шашлыка, считающийся высшим пилотажем поварского искусства, отличающийся неповторимым тончайшим вкусом. Рекомендуем к люля-кебаб соус ткемали. Подается с маринованным луком. Порция от 200 г",
+            "price": 117
+          },
+          {
+            "id": "-M2KeVzKhkLqqCbUk8XQ",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "«Люляшки-долмашки»",
+            "imageUrl": "https://imageup.ru/img105/3563600/b2_12.jpg",
+            "description": "Жарятся в сальнике на мангале. Подаются с маринованным луком. Порция от 200 г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeW3cKtDl6HPU58tW",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Русалка",
+            "imageUrl": "https://imageup.ru/img105/3564154/b3_1.jpg",
+            "description": "Лаваш с сырной начинкой. Порция 250г.",
+            "price": 75
+          },
+          {
+            "id": "-M2KeW8mEAGoylgg8M7y",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шаурма «Пиратская» с курицей",
+            "imageUrl": "https://imageup.ru/img105/3564155/b3_2.jpg",
+            "description": "Ближневосточное блюдо из лаваша, начинённого рубленым жареным мясом из нежного куриного филе, приготовленного на мангале. Порция 350г.",
+            "price": 95
+          },
+          {
+            "id": "-M2KeWE9fClaZuquQtg8",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Сырная поляна",
+            "imageUrl": "https://imageup.ru/img105/3564161/b3_5.jpg",
+            "description": "Пармезан, Дор-блю, Моцарелла Мини, Маасдам, сыр «Мраморный», зелень, орех грецкий и мед. Порция 250г.",
+            "price": 297
+          },
+          {
+            "id": "-M2KeWKD222BK5UBjQxi",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Сом-рулет",
+            "imageUrl": "https://imageup.ru/img105/3564163/b4_1.jpg",
+            "description": "Подается с белым чесночным соусом. Порция 200г.",
+            "price": 137
+          },
+          {
+            "id": "-M2KeWPEjYntyeK3tIMH",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Икра щучья с сыром Буко",
+            "imageUrl": "https://imageup.ru/img105/3564164/b4_2.jpg",
+            "description": "Икра щучья с сыром Буко Порция 150г.",
+            "price": 357
+          },
+          {
+            "id": "-M2KeWUJb7AIAHNQHDEN",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Рыбное ассорти соломкой на компанию",
+            "imageUrl": "https://imageup.ru/img105/3564165/b4_3.jpg",
+            "description": "Рыбное ассорти соломкой на компанию Порция 80г.",
+            "price": 165
+          },
+          {
+            "id": "-M2KeWZWIJ_U7tIas-f2",
+            "categoryIds": "c4",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Баварские",
+            "imageUrl": "https://imageup.ru/img105/3563598/b2_18.jpg",
+            "description": "Колбаски, приготовленные из свинины и сыра с добавлением перепелиных яиц. Порция 200г.",
+            "price": 161
+          },
+          {
+            "id": "-M2KeWdnw8FjiDENL_CZ",
+            "categoryIds": "c4",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Мюнхенские",
+            "imageUrl": "https://imageup.ru/img105/3563575/b2_10.jpg",
+            "description": "Колбаски, приготовленные из говядины, тмина с добавлением чеснока. Порция 200г.",
+            "price": 207
+          },
+          {
+            "id": "-M2KeWifhcVyEY4aXt9j",
+            "categoryIds": "c5",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Овощная паэлия",
+            "imageUrl": "https://imageup.ru/img105/3564171/b6_9.jpg",
+            "description": "Маринованные огурцы, маринованные грибы, оливки, маслины, пекинская капуста, оливковое масло. Порция 200г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeWnYjW9PwvtRI6ET",
+            "categoryIds": "c5",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Чабан-салат",
+            "imageUrl": "https://imageup.ru/img105/3564172/b6_2.jpg",
+            "description": "Салат турецкой кухни с пикантной заправкой из масла оливы и лимонного сока. Порция 250г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeWspEjD0xDpQU5ux",
+            "categoryIds": "c6",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Бульон «Черпак» на говядине и баранине",
+            "imageUrl": "https://imageup.ru/img105/3564173/b7_1.jpg",
+            "description": "Бульон «Черпак» на говядине и баранине. Порция 400г.",
+            "price": 45
+          },
+          {
+            "id": "-M2KeWxq2Mg95rj4110q",
+            "categoryIds": "c7",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Лаваш тонкий (целый)",
+            "imageUrl": "https://imageup.ru/img105/3564177/b8_1.jpg",
+            "description": "Лаваш тонкий.",
+            "price": 40
+          },
+          {
+            "id": "-M2KeX1WknBuyz2_bMWK",
+            "categoryIds": "c8",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Картофель фри",
+            "imageUrl": "https://imageup.ru/img105/3564181/b9_1.jpg",
+            "description": "Картофель фри",
+            "price": 75
+          },
+          {
+            "id": "-M2KeX7I2H-1uOSkiSla",
+            "categoryIds": "c9",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Красный кисло-сладкий острый соус",
+            "imageUrl": "https://imageup.ru/img105/3564183/b10_0.jpg",
+            "description": "Красный кисло-сладкий острый соус",
+            "price": 53
+          },
+          {
+            "id": "-M2KeXCPySAHbR41FIiv",
+            "categoryIds": "c10",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Варенье собственного производства",
+            "imageUrl": "https://imageup.ru/img105/3564184/b11_1.jpg",
+            "description": "Варенье собственного производства",
+            "price": 99
+          },
+          {
+            "id": "-M2Kf6Oym5fKbbijO1d_",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из свинины на кости в маринаде «Барбадос»",
+            "imageUrl": "https://imageup.ru/img105/3563573/b2_5.jpg",
+            "description": "Маринад от шеф-повара и костный жир придает особый вкус шашлыку. Рекомендуем кисло-сладкий острый соус, подается с маринованным луком. Порция от 250 г.",
+            "price": 107
+          },
+          {
+            "id": "-M2L4B4NQz-kUAGF1Gnq",
+            "categoryIds": " c1",
+            "ownerId": "PIJ2AXBUL6MINotdpX09k20K9982",
+            "title": "Thigh ",
+            "imageUrl": "Fhhhh",
+            "description": "8th and death penalty for the first time ",
+            "price": 52
+          },
+          {
+            "id": "-M2M02kO0ZFiaZtjOKbq",
+            "categoryIds": "c3",
+            "ownerId": "tiiNwAOFFpPZ5gNALiwOQMjvacj2",
+            "title": "Ghhhgghjj565777",
+            "imageUrl": "Ghbbb",
+            "description": "Gkfxh fhfhjj fhhhggg",
+            "price": 77
+          }
+        ],
+        "userProducts": [
+          {
+            "id": "-M2KIWIuEowm-WVz-KZy",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из филе индейки",
+            "imageUrl": "https://imageup.ru/img105/3563570/b2_3.jpg",
+            "description": "Придётся по вкусу тем, кто любит нежное диетиче-ское мясо, хорошо сочетается с гранатовым соусом «Наршараб», подается с маринованным луком. Порция от 200 г.",
+            "price": 117
+          },
+          {
+            "id": "-M2KIjD_ZDGzFziZ15X6",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из свинины в классическом маринаде",
+            "imageUrl": "https://imageup.ru/img105/3563571/b2_4.jpg",
+            "description": "Нежный шашлык, искусно приготовленный по классическому рецепту (лук, красный перец, соль) из шейной части свинины, который хорошо сочетается с красным кисло-сладким острым соусом. Подается с маринованным луком. Порция от 200 г.",
+            "price": 97
+          },
+          {
+            "id": "-M2KeVeNcsohgJ-jysC3",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из мякоти баранины в классическом маринаде",
+            "imageUrl": "https://imageup.ru/img105/3563574/b2_6.jpg",
+            "description": "Традиционный (лук, перец, соль) шашлык из мякоти баранины, который хорошо сочетается с красным кисло-сладким острым соусом. Подается с маринованным луком. Порция от 200 г.",
+            "price": 147
+          },
+          {
+            "id": "-M2KeVjU_gj_SUKe4LEN",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Услада холостяка",
+            "imageUrl": "https://imageup.ru/img105/3563598/b2_18.jpg",
+            "description": "Изысканный деликатес настоящего пирата. Нежнная говяжья вырезка в курдючном сале на мангале. Порция от 200 г.",
+            "price": 177
+          },
+          {
+            "id": "-M2KeVox4n3yshFcrFTU",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Люля-кебаб из курицы",
+            "imageUrl": "https://imageup.ru/img105/3563575/b2_10.jpg",
+            "description": "Это блюдо подойдёт для любителей более лёгкого варианта шашлыка, подается с маринованным луком. Рекомендуется к шашлыку сырный соус. Порция от 200 г.",
+            "price": 95
+          },
+          {
+            "id": "-M2KeVufuCFtLw0c3yVv",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Люля-кебаб (говядина и баранина)",
+            "imageUrl": "https://imageup.ru/img105/3563599/b2_11.jpg",
+            "description": "Особый вид шашлыка, считающийся высшим пилотажем поварского искусства, отличающийся неповторимым тончайшим вкусом. Рекомендуем к люля-кебаб соус ткемали. Подается с маринованным луком. Порция от 200 г",
+            "price": 117
+          },
+          {
+            "id": "-M2KeVzKhkLqqCbUk8XQ",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "«Люляшки-долмашки»",
+            "imageUrl": "https://imageup.ru/img105/3563600/b2_12.jpg",
+            "description": "Жарятся в сальнике на мангале. Подаются с маринованным луком. Порция от 200 г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeW3cKtDl6HPU58tW",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Русалка",
+            "imageUrl": "https://imageup.ru/img105/3564154/b3_1.jpg",
+            "description": "Лаваш с сырной начинкой. Порция 250г.",
+            "price": 75
+          },
+          {
+            "id": "-M2KeW8mEAGoylgg8M7y",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шаурма «Пиратская» с курицей",
+            "imageUrl": "https://imageup.ru/img105/3564155/b3_2.jpg",
+            "description": "Ближневосточное блюдо из лаваша, начинённого рубленым жареным мясом из нежного куриного филе, приготовленного на мангале. Порция 350г.",
+            "price": 95
+          },
+          {
+            "id": "-M2KeWE9fClaZuquQtg8",
+            "categoryIds": "c2",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Сырная поляна",
+            "imageUrl": "https://imageup.ru/img105/3564161/b3_5.jpg",
+            "description": "Пармезан, Дор-блю, Моцарелла Мини, Маасдам, сыр «Мраморный», зелень, орех грецкий и мед. Порция 250г.",
+            "price": 297
+          },
+          {
+            "id": "-M2KeWKD222BK5UBjQxi",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Сом-рулет",
+            "imageUrl": "https://imageup.ru/img105/3564163/b4_1.jpg",
+            "description": "Подается с белым чесночным соусом. Порция 200г.",
+            "price": 137
+          },
+          {
+            "id": "-M2KeWPEjYntyeK3tIMH",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Икра щучья с сыром Буко",
+            "imageUrl": "https://imageup.ru/img105/3564164/b4_2.jpg",
+            "description": "Икра щучья с сыром Буко Порция 150г.",
+            "price": 357
+          },
+          {
+            "id": "-M2KeWUJb7AIAHNQHDEN",
+            "categoryIds": "c3",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Рыбное ассорти соломкой на компанию",
+            "imageUrl": "https://imageup.ru/img105/3564165/b4_3.jpg",
+            "description": "Рыбное ассорти соломкой на компанию Порция 80г.",
+            "price": 165
+          },
+          {
+            "id": "-M2KeWZWIJ_U7tIas-f2",
+            "categoryIds": "c4",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Баварские",
+            "imageUrl": "https://imageup.ru/img105/3563598/b2_18.jpg",
+            "description": "Колбаски, приготовленные из свинины и сыра с добавлением перепелиных яиц. Порция 200г.",
+            "price": 161
+          },
+          {
+            "id": "-M2KeWdnw8FjiDENL_CZ",
+            "categoryIds": "c4",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Мюнхенские",
+            "imageUrl": "https://imageup.ru/img105/3563575/b2_10.jpg",
+            "description": "Колбаски, приготовленные из говядины, тмина с добавлением чеснока. Порция 200г.",
+            "price": 207
+          },
+          {
+            "id": "-M2KeWifhcVyEY4aXt9j",
+            "categoryIds": "c5",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Овощная паэлия",
+            "imageUrl": "https://imageup.ru/img105/3564171/b6_9.jpg",
+            "description": "Маринованные огурцы, маринованные грибы, оливки, маслины, пекинская капуста, оливковое масло. Порция 200г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeWnYjW9PwvtRI6ET",
+            "categoryIds": "c5",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Чабан-салат",
+            "imageUrl": "https://imageup.ru/img105/3564172/b6_2.jpg",
+            "description": "Салат турецкой кухни с пикантной заправкой из масла оливы и лимонного сока. Порция 250г.",
+            "price": 127
+          },
+          {
+            "id": "-M2KeWspEjD0xDpQU5ux",
+            "categoryIds": "c6",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Бульон «Черпак» на говядине и баранине",
+            "imageUrl": "https://imageup.ru/img105/3564173/b7_1.jpg",
+            "description": "Бульон «Черпак» на говядине и баранине. Порция 400г.",
+            "price": 45
+          },
+          {
+            "id": "-M2KeWxq2Mg95rj4110q",
+            "categoryIds": "c7",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Лаваш тонкий (целый)",
+            "imageUrl": "https://imageup.ru/img105/3564177/b8_1.jpg",
+            "description": "Лаваш тонкий.",
+            "price": 40
+          },
+          {
+            "id": "-M2KeX1WknBuyz2_bMWK",
+            "categoryIds": "c8",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Картофель фри",
+            "imageUrl": "https://imageup.ru/img105/3564181/b9_1.jpg",
+            "description": "Картофель фри",
+            "price": 75
+          },
+          {
+            "id": "-M2KeX7I2H-1uOSkiSla",
+            "categoryIds": "c9",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Красный кисло-сладкий острый соус",
+            "imageUrl": "https://imageup.ru/img105/3564183/b10_0.jpg",
+            "description": "Красный кисло-сладкий острый соус",
+            "price": 53
+          },
+          {
+            "id": "-M2KeXCPySAHbR41FIiv",
+            "categoryIds": "c10",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Варенье собственного производства",
+            "imageUrl": "https://imageup.ru/img105/3564184/b11_1.jpg",
+            "description": "Варенье собственного производства",
+            "price": 99
+          },
+          {
+            "id": "-M2Kf6Oym5fKbbijO1d_",
+            "categoryIds": "c1",
+            "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+            "title": "Шашлык из свинины на кости в маринаде «Барбадос»",
+            "imageUrl": "https://imageup.ru/img105/3563573/b2_5.jpg",
+            "description": "Маринад от шеф-повара и костный жир придает особый вкус шашлыку. Рекомендуем кисло-сладкий острый соус, подается с маринованным луком. Порция от 250 г.",
+            "price": 107
+          }
+        ]
+      },
+      {
+        "type": "ADD_TO_CART",
+        "product": {
+          "id": "-M2KIWIuEowm-WVz-KZy",
+          "categoryIds": "c1",
+          "ownerId": "mGcBM9fAdvQM7eA7ABceyYFxgEq1",
+          "title": "Шашлык из филе индейки",
+          "imageUrl": "https://imageup.ru/img105/3563570/b2_3.jpg",
+          "description": "Придётся по вкусу тем, кто любит нежное диетиче-ское мясо, хорошо сочетается с гранатовым соусом «Наршараб», подается с маринованным луком. Порция от 200 г.",
+          "price": 117
+        }
+      },
+      {
+        "type": "ADD_ORDER",
+        "orderData": {
+          "id": "-M2ZBLbrp82AeusWps_x",
+          "items": [
+            {
+              "productId": "-M2KIWIuEowm-WVz-KZy",
+              "productTitle": "Шашлык из филе индейки",
+              "productPrice": 117,
+              "quantity": 1,
+              "sum": 117
+            }
+          ],
+          "amount": 117,
+          "date": "2020-03-16T16:33:05.125Z"
+        }
+      },      
+      {
+        "type": "SET_ORDERS",
+        "orders": [
+          {
+            "id": "-M2KVmFQTyNPCyUgsQtK",
+            "items": [
+              {
+                "productId": "-M2KIHwKBM8nah5Xt9z6",
+                "productPrice": 80,
+                "productTitle": "Шашлык из куриного филе",
+                "quantity": 2,
+                "sum": 160
+              }
+            ],
+            "totalAmount": 160,
+            "date": "2020-03-13T20:08:10.457Z"
+          },
+          {
+            "id": "-M2KY0V_lLUGPAno2xLN",
+            "items": [
+              {
+                "productId": "-M2KIHwKBM8nah5Xt9z6",
+                "productPrice": 80,
+                "productTitle": "Шашлык из куриного филе",
+                "quantity": 3,
+                "sum": 240
+              }
+            ],
+            "totalAmount": 240,
+            "date": "2020-03-13T20:17:57.240Z"
+          },
+          {
+            "id": "-M2Kyk7cvokM6iNKOYi4",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 2,
+                "sum": 154
+              }
+            ],
+            "totalAmount": 154,
+            "date": "2020-03-13T22:19:05.986Z"
+          },
+          {
+            "id": "-M2L265Rz1_3hjQkYqMA",
+            "items": [
+              {
+                "productId": "-M2KeWE9fClaZuquQtg8",
+                "productPrice": 297,
+                "productTitle": "Сырная поляна",
+                "quantity": 1,
+                "sum": 297
+              }
+            ],
+            "totalAmount": 297,
+            "date": "2020-03-13T22:38:08.494Z"
+          },
+          {
+            "id": "-M2L3AllrSdrOWF8a_Ye",
+            "items": [
+              {
+                "productId": "-M2KeVeNcsohgJ-jysC3",
+                "productPrice": 147,
+                "productTitle": "Шашлык из мякоти баранины в классическом маринаде",
+                "quantity": 2,
+                "sum": 294
+              },
+              {
+                "productId": "-M2KeVox4n3yshFcrFTU",
+                "productPrice": 95,
+                "productTitle": "Люля-кебаб из курицы",
+                "quantity": 2,
+                "sum": 190
+              },
+              {
+                "productId": "-M2KeVufuCFtLw0c3yVv",
+                "productPrice": 117,
+                "productTitle": "Люля-кебаб (говядина и баранина)",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 601,
+            "date": "2020-03-13T22:42:49.881Z"
+          },
+          {
+            "id": "-M2L5ltykKBHUUaBRd7_",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              }
+            ],
+            "totalAmount": 231,
+            "date": "2020-03-13T22:54:10.356Z"
+          },
+          {
+            "id": "-M2LlO5wj6PA3ymj8s1V",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              }
+            ],
+            "totalAmount": 231,
+            "date": "2020-03-14T02:00:23.356Z"
+          },
+          {
+            "id": "-M2Lxn8bfE3Gdm0cD0js",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              }
+            ],
+            "totalAmount": 231,
+            "date": "2020-03-14T02:54:36.268Z"
+          },
+          {
+            "id": "-M2LxrVc_n6618CFqp-l",
+            "items": [
+              {
+                "productId": "-M2KIHwKBM8nah5Xt9z6",
+                "productPrice": 80,
+                "productTitle": "Шашлык из куриного филе",
+                "quantity": 3,
+                "sum": 240
+              }
+            ],
+            "totalAmount": 240,
+            "date": "2020-03-14T02:54:54.083Z"
+          },
+          {
+            "id": "-M2N1ViRROJe64CKMX1L",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              }
+            ],
+            "totalAmount": 231,
+            "date": "2020-03-14T07:54:43.640Z"
+          },
+          {
+            "id": "-M2NGsqW6SExIVn78gXO",
+            "items": [
+              {
+                "productId": "-M2KIHwKBM8nah5Xt9z6",
+                "productPrice": 80,
+                "productTitle": "Шашлык из куриного филе",
+                "quantity": 1,
+                "sum": 80
+              },
+              {
+                "productId": "-M2KIjD_ZDGzFziZ15X6",
+                "productPrice": 97,
+                "productTitle": "Шашлык из свинины в классическом маринаде",
+                "quantity": 5,
+                "sum": 485
+              },
+              {
+                "productId": "-M2KeVeNcsohgJ-jysC3",
+                "productPrice": 147,
+                "productTitle": "Шашлык из мякоти баранины в классическом маринаде",
+                "quantity": 84,
+                "sum": 12348
+              }
+            ],
+            "totalAmount": 12913,
+            "date": "2020-03-14T09:01:54.479Z"
+          },
+          {
+            "id": "-M2NKLA2sQsN2b3bPCJQ",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 1,
+                "sum": 77
+              },
+              {
+                "productId": "-M2KIHwKBM8nah5Xt9z6",
+                "productPrice": 80,
+                "productTitle": "Шашлык из куриного филе",
+                "quantity": 1,
+                "sum": 80
+              },
+              {
+                "productId": "-M2KeVeNcsohgJ-jysC3",
+                "productPrice": 147,
+                "productTitle": "Шашлык из мякоти баранины в классическом маринаде",
+                "quantity": 79,
+                "sum": 11613
+              }
+            ],
+            "totalAmount": 11770,
+            "date": "2020-03-14T09:17:01.038Z"
+          },
+          {
+            "id": "-M2NLJFISiOK6_Xrq1y6",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              },
+              {
+                "productId": "-M2KIjD_ZDGzFziZ15X6",
+                "productPrice": 97,
+                "productTitle": "Шашлык из свинины в классическом маринаде",
+                "quantity": 2,
+                "sum": 194
+              },
+              {
+                "productId": "-M2KeVeNcsohgJ-jysC3",
+                "productPrice": 147,
+                "productTitle": "Шашлык из мякоти баранины в классическом маринаде",
+                "quantity": 3,
+                "sum": 441
+              }
+            ],
+            "totalAmount": 866,
+            "date": "2020-03-14T09:21:14.248Z"
+          },
+          {
+            "id": "-M2NfScIhhFUFi5aMnU8",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 8,
+                "sum": 616
+              }
+            ],
+            "totalAmount": 616,
+            "date": "2020-03-14T10:53:38.638Z"
+          },
+          {
+            "id": "-M2Nivz41OgZlHwO2eF-",
+            "items": [
+              {
+                "productId": "-M2KG-Bo2ZPC2gGw7RQ6",
+                "productPrice": 77,
+                "productTitle": "Куриные крылышки на углях",
+                "quantity": 3,
+                "sum": 231
+              }
+            ],
+            "totalAmount": 231,
+            "date": "2020-03-14T11:08:49.379Z"
+          },
+          {
+            "id": "-M2OnnV5yafg7muDzCcQ",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-14T16:09:42.276Z"
+          },
+          {
+            "id": "-M2Op6d3psgfDMFtU9ZJ",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 11,
+                "sum": 1287
+              }
+            ],
+            "totalAmount": 1287,
+            "date": "2020-03-14T16:15:26.923Z"
+          },
+          {
+            "id": "-M2P2vLCnyP1YbU6c0p6",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-14T17:20:08.615Z"
+          },
+          {
+            "id": "-M2PBQK-KKfJ_gyoyhjV",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 3,
+                "sum": 351
+              }
+            ],
+            "totalAmount": 351,
+            "date": "2020-03-14T17:57:16.709Z"
+          },
+          {
+            "id": "-M2PBSZ6Pv1ISSK2P9nB",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 2,
+                "sum": 234
+              }
+            ],
+            "totalAmount": 234,
+            "date": "2020-03-14T17:57:25.906Z"
+          },
+          {
+            "id": "-M2PGD1_z8r9SKYlFkYe",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 2,
+                "sum": 234
+              }
+            ],
+            "totalAmount": 234,
+            "date": "2020-03-14T18:18:20.302Z"
+          },
+          {
+            "id": "-M2PL2hUAohGdrD_lkp7",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 3,
+                "sum": 351
+              }
+            ],
+            "totalAmount": 351,
+            "date": "2020-03-14T18:39:28.890Z"
+          },
+          {
+            "id": "-M2POLaidYh6tAlchd6l",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              },
+              {
+                "productId": "-M2KIjD_ZDGzFziZ15X6",
+                "productPrice": 97,
+                "productTitle": "Шашлык из свинины в классическом маринаде",
+                "quantity": 1,
+                "sum": 97
+              },
+              {
+                "productId": "-M2KeVeNcsohgJ-jysC3",
+                "productPrice": 147,
+                "productTitle": "Шашлык из мякоти баранины в классическом маринаде",
+                "quantity": 1,
+                "sum": 147
+              }
+            ],
+            "totalAmount": 361,
+            "date": "2020-03-14T18:54:02.576Z"
+          },
+          {
+            "id": "-M2POvIV1ehm_Reb6Gm-",
+            "items": [
+              {
+                "productId": "-M2KeX7I2H-1uOSkiSla",
+                "productPrice": 53,
+                "productTitle": "Красный кисло-сладкий острый соус",
+                "quantity": 1,
+                "sum": 53
+              }
+            ],
+            "totalAmount": 53,
+            "date": "2020-03-14T18:56:32.933Z"
+          },
+          {
+            "id": "-M2QynV_D8FXzusffT0C",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 2,
+                "sum": 234
+              }
+            ],
+            "totalAmount": 234,
+            "date": "2020-03-15T02:17:08.944Z"
+          },
+          {
+            "id": "-M2RPW2ERfxb4thy0k8m",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-15T04:18:13.309Z"
+          },
+          {
+            "id": "-M2RPYQ5k4FOWcal0z_h",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-15T04:18:23.009Z"
+          },
+          {
+            "id": "-M2RPht8ZXxDoQkPwool",
+            "items": [
+              {
+                "productId": "-M2KeW3cKtDl6HPU58tW",
+                "productPrice": 75,
+                "productTitle": "Русалка",
+                "quantity": 2,
+                "sum": 150
+              }
+            ],
+            "totalAmount": 150,
+            "date": "2020-03-15T04:19:05.896Z"
+          },
+          {
+            "id": "-M2XJNBF6uihCO2KsI2r",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-16T07:49:11.242Z"
+          },
+          {
+            "id": "-M2XuDI9B0jBaQN7Shi6",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 3,
+                "sum": 351
+              }
+            ],
+            "totalAmount": 351,
+            "date": "2020-03-16T10:34:31.967Z"
+          },
+          {
+            "id": "-M2XuHNyDuBqEoGSP8pB",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 2,
+                "sum": 234
+              }
+            ],
+            "totalAmount": 234,
+            "date": "2020-03-16T10:34:48.895Z"
+          },
+          {
+            "id": "-M2XwqXCkbijkp3kOeAf",
+            "items": [
+              {
+                "productId": "-M2KeVox4n3yshFcrFTU",
+                "productPrice": 95,
+                "productTitle": "Люля-кебаб из курицы",
+                "quantity": 3,
+                "sum": 285
+              },
+              {
+                "productId": "-M2M02kO0ZFiaZtjOKbq",
+                "productPrice": 77,
+                "productTitle": "Ghhhgghjj565777",
+                "quantity": 1,
+                "sum": 77
+              }
+            ],
+            "totalAmount": 362,
+            "date": "2020-03-16T10:46:01.354Z"
+          },
+          {
+            "id": "-M2YA_wmxFVILdP54tKD",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-16T11:50:25.187Z"
+          },
+          {
+            "id": "-M2ZBLbrp82AeusWps_x",
+            "items": [
+              {
+                "productId": "-M2KIWIuEowm-WVz-KZy",
+                "productPrice": 117,
+                "productTitle": "Шашлык из филе индейки",
+                "quantity": 1,
+                "sum": 117
+              }
+            ],
+            "totalAmount": 117,
+            "date": "2020-03-16T16:33:05.125Z"
+          }
+        ]
+      }
+    ]
+  }

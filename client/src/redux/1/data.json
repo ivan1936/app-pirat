@@ -1,0 +1,328 @@
+{
+    "payload": [
+      {
+        "type": "SIGN_UP_START",
+        "payload": {
+          "displayName": "roma",
+          "email": "roma@mail.ru",
+          "password": "123456"
+        }
+      },
+      {
+        "type": "SIGN_UP_SUCCESS",
+        "payload": {
+          "user": {
+            "uid": "5JXO9KrujLMeUHWc4zy48sLnut32",
+            "displayName": null,
+            "photoURL": null,
+            "email": "roma@mail.ru",
+            "emailVerified": false,
+            "phoneNumber": null,
+            "isAnonymous": false,
+            "providerData": [
+              {
+                "uid": "roma@mail.ru",
+                "displayName": null,
+                "photoURL": null,
+                "email": "roma@mail.ru",
+                "phoneNumber": null,
+                "providerId": "password"
+              }
+            ],
+            "apiKey": "AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14",
+            "appName": "[DEFAULT]",
+            "authDomain": "crwn-db.firebaseapp.com",
+            "stsTokenManager": {
+              "apiKey": "AIzaSyCdHT-AYHXjF7wOrfAchX4PIm3cSj5tn14",
+              "refreshToken": "AEu4IL043ViVnfvQRQCXq4REba4poY1I5p-3TurrDr-ZFqR8oJ3dpZuP03fdJeLhvnP2PKn4DQee2mVKMiHsmHozoeghWXOh9Pa7rrw8KrkvPrr1FCcy4MGOf7SeyFWbOFx9FXx3qwaryVyFThFfAF6vZ6O4ieZAGMWeFXv-SuAdImWu9b2VnQv7cdkhfbLn74CWtIancKov",
+              "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjgyZTZiMWM5MjFmYTg2NzcwZjNkNTBjMTJjMTVkNmVhY2E4ZjBkMzUiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vY3J3bi1kYiIsImF1ZCI6ImNyd24tZGIiLCJhdXRoX3RpbWUiOjE1ODQzNzA0MDQsInVzZXJfaWQiOiI1SlhPOUtydWpMTWVVSFdjNHp5NDhzTG51dDMyIiwic3ViIjoiNUpYTzlLcnVqTE1lVUhXYzR6eTQ4c0xudXQzMiIsImlhdCI6MTU4NDM3MDQwNCwiZXhwIjoxNTg0Mzc0MDA0LCJlbWFpbCI6InJvbWFAbWFpbC5ydSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiZmlyZWJhc2UiOnsiaWRlbnRpdGllcyI6eyJlbWFpbCI6WyJyb21hQG1haWwucnUiXX0sInNpZ25faW5fcHJvdmlkZXIiOiJwYXNzd29yZCJ9fQ.YQ-7-Vn8QQ-7tEgSgLdsKKCNNq1TUoJdhr5C95HGDjNKtunovYo51Cb8ssWUw99w5O2fjJ4FsEzOcKnzowlCLMZF2c18HJra3zO42a3YEjz2cAH_VTv8Bjids8nfLCgpM8fbe-ob1Cc3eA4isvXGB9KzCG4VQCfCS_-HE0DJbo2q4o2Zf8bMynuefLVxfm1Wc4VCNdr4GDWJgbWKkbNVG30olIaye8PmfBrRZ7Sc1gzJf8Y7cIOY3tQd8aI3GEcgvoD3SrwqKoICfcaIN-YR5G82Arf9iJ9C1iVjlGqThDHthZQCA8QAVQoL5KpZTyEJBEiXQ_u5DD5n9aRkp-TPEg",
+              "expirationTime": 1584373981487
+            },
+            "redirectEventId": null,
+            "lastLoginAt": "1584370403257",
+            "createdAt": "1584370403257"
+          },
+          "additionalData": {
+            "displayName": "roma"
+          }
+        }
+      },
+      {
+        "type": "SIGN_IN_SUCCESS",
+        "payload": {
+          "id": "5JXO9KrujLMeUHWc4zy48sLnut32",
+          "createdAt": {
+            "seconds": 1584370383,
+            "nanoseconds": 16000000
+          },
+          "displayName": "roma",
+          "email": "roma@mail.ru"
+        }
+      },
+      {
+        "type": "FETCH_COLLECTIONS_START"
+      },
+      {
+        "type": "FETCH_COLLECTIONS_SUCCESS",
+        "payload": {
+          "sneakers": {
+            "routeName": "sneakers",
+            "id": "0cmg99h7oDuuapQXWX4O",
+            "title": "Sneakers",
+            "items": [
+              {
+                "id": 10,
+                "imageUrl": "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
+                "name": "Adidas NMD",
+                "price": 220
+              },
+              {
+                "id": 11,
+                "imageUrl": "https://i.ibb.co/dJbG1cT/yeezy.png",
+                "name": "Adidas Yeezy",
+                "price": 280
+              },
+              {
+                "id": 12,
+                "imageUrl": "https://i.ibb.co/bPmVXyP/black-converse.png",
+                "name": "Black Converse",
+                "price": 110
+              },
+              {
+                "id": 13,
+                "imageUrl": "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
+                "name": "Nike White AirForce",
+                "price": 160
+              },
+              {
+                "id": 14,
+                "imageUrl": "https://i.ibb.co/QcvzydB/nikes-red.png",
+                "name": "Nike Red High Tops",
+                "price": 160
+              },
+              {
+                "id": 15,
+                "imageUrl": "https://i.ibb.co/fMTV342/nike-brown.png",
+                "name": "Nike Brown High Tops",
+                "price": 160
+              },
+              {
+                "id": 16,
+                "imageUrl": "https://i.ibb.co/w4k6Ws9/nike-funky.png",
+                "name": "Air Jordan Limited",
+                "price": 190
+              },
+              {
+                "id": 17,
+                "imageUrl": "https://i.ibb.co/Mhh6wBg/timberlands.png",
+                "name": "Timberlands",
+                "price": 200
+              }
+            ]
+          },
+          "jackets": {
+            "routeName": "jackets",
+            "id": "12GgRCLblMyfhIYM7htN",
+            "title": "Jackets",
+            "items": [
+              {
+                "id": 18,
+                "imageUrl": "https://i.ibb.co/XzcwL5s/black-shearling.png",
+                "name": "Black Jean Shearling",
+                "price": 125
+              },
+              {
+                "id": 19,
+                "imageUrl": "https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+                "name": "Blue Jean Jacket",
+                "price": 90
+              },
+              {
+                "id": 20,
+                "imageUrl": "https://i.ibb.co/N71k1ML/grey-jean-jacket.png",
+                "name": "Grey Jean Jacket",
+                "price": 90
+              },
+              {
+                "id": 21,
+                "imageUrl": "https://i.ibb.co/s96FpdP/brown-shearling.png",
+                "name": "Brown Shearling",
+                "price": 165
+              },
+              {
+                "id": 22,
+                "imageUrl": "https://i.ibb.co/M6hHc3F/brown-trench.png",
+                "name": "Tan Trench",
+                "price": 185
+              }
+            ]
+          },
+          "mens": {
+            "routeName": "mens",
+            "id": "162Sbz5ucD76UIskg4R3",
+            "title": "Mens",
+            "items": [
+              {
+                "id": 30,
+                "imageUrl": "https://i.ibb.co/xJS0T3Y/camo-vest.png",
+                "name": "Camo Down Vest",
+                "price": 325
+              },
+              {
+                "id": 31,
+                "imageUrl": "https://i.ibb.co/qMQ75QZ/floral-shirt.png",
+                "name": "Floral T-shirt",
+                "price": 20
+              },
+              {
+                "id": 32,
+                "imageUrl": "https://i.ibb.co/55z32tw/long-sleeve.png",
+                "name": "Black & White Longsleeve",
+                "price": 25
+              },
+              {
+                "id": 33,
+                "imageUrl": "https://i.ibb.co/RvwnBL8/pink-shirt.png",
+                "name": "Pink T-shirt",
+                "price": 25
+              },
+              {
+                "id": 34,
+                "imageUrl": "https://i.ibb.co/VpW4x5t/roll-up-jean-shirt.png",
+                "name": "Jean Long Sleeve",
+                "price": 40
+              },
+              {
+                "id": 35,
+                "imageUrl": "https://i.ibb.co/mh3VM1f/polka-dot-shirt.png",
+                "name": "Burgundy T-shirt",
+                "price": 25
+              }
+            ]
+          },
+          "hats": {
+            "routeName": "hats",
+            "id": "1avitkdWnbEXqLVusfrD",
+            "title": "Hats",
+            "items": [
+              {
+                "id": 1,
+                "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+                "name": "Brown Brim",
+                "price": 25
+              },
+              {
+                "id": 2,
+                "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+                "name": "Blue Beanie",
+                "price": 18
+              },
+              {
+                "id": 3,
+                "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+                "name": "Brown Cowboy",
+                "price": 35
+              },
+              {
+                "id": 4,
+                "imageUrl": "https://i.ibb.co/RjBLWxB/grey-brim.png",
+                "name": "Grey Brim",
+                "price": 25
+              },
+              {
+                "id": 5,
+                "imageUrl": "https://i.ibb.co/YTjW3vF/green-beanie.png",
+                "name": "Green Beanie",
+                "price": 18
+              },
+              {
+                "id": 6,
+                "imageUrl": "https://i.ibb.co/rKBDvJX/palm-tree-cap.png",
+                "name": "Palm Tree Cap",
+                "price": 14
+              },
+              {
+                "id": 7,
+                "imageUrl": "https://i.ibb.co/bLB646Z/red-beanie.png",
+                "name": "Red Beanie",
+                "price": 18
+              },
+              {
+                "id": 8,
+                "imageUrl": "https://i.ibb.co/1f2nWMM/wolf-cap.png",
+                "name": "Wolf Cap",
+                "price": 14
+              },
+              {
+                "id": 9,
+                "imageUrl": "https://i.ibb.co/X2VJP2W/blue-snapback.png",
+                "name": "Blue Snapback",
+                "price": 16
+              }
+            ]
+          },
+          "womens": {
+            "routeName": "womens",
+            "id": "1t68Q2JNiBPIqxQshRqX",
+            "title": "Womens",
+            "items": [
+              {
+                "id": 23,
+                "imageUrl": "https://i.ibb.co/7CQVJNm/blue-tank.png",
+                "name": "Blue Tanktop",
+                "price": 25
+              },
+              {
+                "id": 24,
+                "imageUrl": "https://i.ibb.co/4W2DGKm/floral-blouse.png",
+                "name": "Floral Blouse",
+                "price": 20
+              },
+              {
+                "id": 25,
+                "imageUrl": "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+                "name": "Floral Dress",
+                "price": 80
+              },
+              {
+                "id": 26,
+                "imageUrl": "https://i.ibb.co/N3BN1bh/red-polka-dot-dress.png",
+                "name": "Red Dots Dress",
+                "price": 80
+              },
+              {
+                "id": 27,
+                "imageUrl": "https://i.ibb.co/KmSkMbH/striped-sweater.png",
+                "name": "Striped Sweater",
+                "price": 45
+              },
+              {
+                "id": 28,
+                "imageUrl": "https://i.ibb.co/v1cvwNf/yellow-track-suit.png",
+                "name": "Yellow Track Suit",
+                "price": 135
+              },
+              {
+                "id": 29,
+                "imageUrl": "https://i.ibb.co/qBcrsJg/white-vest.png",
+                "name": "White Blouse",
+                "price": 20
+              }
+            ]
+          }
+        }
+      },      
+      {
+        "type": "ADD_ITEM",
+        "payload": {
+          "id": 12,
+          "imageUrl": "https://i.ibb.co/bPmVXyP/black-converse.png",
+          "name": "Black Converse",
+          "price": 110
+        }
+      },
+      {
+        "type": "TOGGLE_CART_HIDDEN"
+      }
+    ]
+  }
